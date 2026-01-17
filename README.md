@@ -1,22 +1,23 @@
-# Hi, I'm <YOUR_NAME> 👋
 
-I’m exploring Web3 development: smart contracts, Ethereum tooling, and small practical experiments.
+# Hi, I'm Biosolver 👋
 
-## What I’m focusing on now
-- Solidity basics: storage, events, mappings, access control
-- Ethers.js scripts: read data from chain, simple wallet interactions
-- Clean repos: readable READMEs, small demos, notes
+Coding is my hobby — I tinker with Web3 stuff for fun: small smart contracts, simple scripts, and learning notes as I go.
+
+## What I’m doing right now
+- Learning Solidity fundamentals (storage, events, mappings, basic access control)
+- Writing small Ethers.js scripts (read on-chain data, simple wallet interactions)
+- Keeping things tidy: short demos, readable READMEs, and practical notes
 
 ## Featured repos
-- 📒 web3-notes — my learning notes & cheat sheets
-- 🔐 solidity-basics — tiny contracts (Storage/Counter) + explanations
-- ⚙️ ethers-scripts — small scripts with ethers.js
+- 📒 **web3-notes** — my learning notes & cheat sheets
+- 🔐 **solidity-basics** — tiny contracts (Storage/Counter) with explanations
+- ⚙️ **ethers-scripts** — small scripts using ethers.js
 
-## Tech stack (beginner-friendly)
-- Solidity, JavaScript/TypeScript (basics)
-- Ethers.js, Hardhat (learning)
-- GitHub Actions (later)
+## Tech I play with
+- Solidity
+- JavaScript / TypeScript (basics)
+- Ethers.js, Hardhat (learning-by-doing)
 
 ## Contact
-- Telegram: <YOUR_TELEGRAM>
-- X(Twitter): <YOUR_LINK># Biosolver
+- Telegram: @Biosolverr
+- X (Twitter): https://x.com/Arxivarius0
